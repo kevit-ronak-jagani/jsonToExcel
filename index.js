@@ -5,7 +5,7 @@
 /**
  *  @file converts json data into excel file
  *  @author Ronak Jagani
- *  @see {@link https://github.com/kevit-ronak-jagani/json-to-excel.git|GitHub Repo}
+ *  @see {@link https://github.com/kevit-ronak-jagani/jsonToExcel.git|GitHub Repo}
  */
 
 // Import the library
