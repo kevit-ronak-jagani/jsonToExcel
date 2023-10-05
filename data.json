@@ -1,0 +1,20 @@
+[
+    {
+        "name": {
+            "first": "Ronak",
+            "last": "Jagani"
+        },
+        "email": "ronak@example.com",
+        "dateOfBirth": "2003-03-21",
+        "customerId": 1
+    },
+    {
+        "name": {
+            "first": "xyz",
+            "last": "pqr"
+        },
+        "email": "xyz@example.com",
+        "dateOfBirth": "2000-12-20",
+        "customerId": 2
+    }
+]
